@@ -1,5 +1,5 @@
 {
-    "name": "eternicode/bootstrap-datepicker",
+    "name": "hendrismit/bootstrap-datepicker",
     "type": "component",
     "require": {
         "robloach/component-installer": "*",
@@ -14,7 +14,11 @@
             "styles": [
                 "css/datepicker.css",
                 "css/datepicker3.css"
+            ],
+            "files": [
+                "js/locales/bootstrap-datepicker.*.js"
             ]
         }
     }
 }
+
